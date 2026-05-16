@@ -1,4 +1,5 @@
 package Sistema_de_Vigilancia;
-public class Camaras {
+
+public class Permisos {
     
 }
